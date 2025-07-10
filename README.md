@@ -4,10 +4,6 @@ Este projeto é uma simulação de uma Máquina de Turing, feita com backend em 
 
 A ideia é que você possa acompanhar passo a passo a execução da máquina, vendo a fita, o estado atual, as regras aplicadas e o resultado convertido para decimal.
 
-##  Demonstração Online
-A aplicação está disponível para acesso através do GitHub Pages:
-
-
 ## Tecnologias usadas
 
 - Java 

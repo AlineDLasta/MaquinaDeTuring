@@ -42,5 +42,4 @@ const view = {
 
     }
 };
-
 document.addEventListener("DOMContentLoaded", controller.carregarModelo);
